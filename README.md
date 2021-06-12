@@ -40,7 +40,7 @@ li a:hover:not(.active) {
 </head>
 <body>
 <h1 style="background-color:lightblue">animal</h1>
-<img src="c:\Users\rajendhar\Pictures\Camera Roll\brown-rabbit.Jpg" alt="brown-rabbit" width="250" hieght="400">
+<img src=https://th.bing.com/th/id/R1a79c2b452a0d5038c938534dfd1b2e4?rik=T5gb8cP8YjSH1g&riu=http%3a%2f%2fhdwallpapers.move.pk%2fwp-content%2fuploads%2f2015%2f03%2fbrown-rabbit.jpg&ehk=knJh4Y8rvLo0S86O0sWPoUbTG5uBYu%2bX0l0Biusqfuw%3d&risl=&pid=ImgRaw"" alt="brown-rabbit" width="250" hieght="400">
 
 <ul>
 <li><a class="active" href="#home">Home</a></li>
